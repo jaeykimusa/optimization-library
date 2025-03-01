@@ -1,3 +1,3 @@
-# qp-optimization
+# optimizations
 
 Quadratic Programming (QP): 
