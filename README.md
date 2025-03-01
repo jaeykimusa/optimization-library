@@ -14,4 +14,4 @@ Interior Point Optimization Techniques (IPOTP)
 Archived: OptiSolverHub, OptiSolverLibrary, welcome to [Name], your all-in-one repository for optimization studies and practices. 
 
 ### Authors
-- [@jaeykimusa](https://github.com/jaeykimusa)
+- powder blue tand ([@jaeykimusa](https://github.com/jaeykimusa))
