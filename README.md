@@ -18,7 +18,7 @@ Interior Point Optimization Techniques (IPOTP)
 - Powder blue tang ([@jaeykimusa](https://github.com/jaeykimusa))
 
 ### References
-**[1]** [S. Moura, "Chapter 2: Quadratic Programming," CE 191 — CEE Systems Analysis, University of California, Berkeley, 2014.](https://ecal.studentorg.berkeley.edu/files/ce191/CH02-QuadraticProgramming.pdf)
+  **[1]** [S. Moura, "Chapter 2: Quadratic Programming," CE 191 — CEE Systems Analysis, University of California, Berkeley, 2014.](https://ecal.studentorg.berkeley.edu/files/ce191/CH02-QuadraticProgramming.pdf)
 
 
 Archived: OptiSolverHub, OptiSolverLibrary, welcome to [Name], your all-in-one repository for optimization studies and practices. 
